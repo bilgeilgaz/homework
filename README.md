@@ -24,5 +24,6 @@ in INDEX.js
 - make click event with text `show more...` which toggles the state.
 
 in ABOUT.js
-- Create 5 squares 100px/100px with 5 different color
-- 
+- Create 10 squares 100px/100px with 10 different colors
+- Create input field which takes color and create 1 square with that color. 
+
